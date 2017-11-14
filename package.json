@@ -1,0 +1,12 @@
+{
+  "name": "netent",
+  "version": "1.0.0",
+  "description": "Netent code challange ",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "node test.js"
+  },
+  "author": "Aliakbar Salehi",
+  "license": "ISC"
+}
